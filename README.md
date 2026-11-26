@@ -47,9 +47,20 @@ Passionate about **Competitive Programming**, **Web Development**, & always eage
 
 | Platform | Handle | Focus Areas |
 | :--- | :--- | :--- |
-| **Codeforces** | [`_Sayan_Dev_Nath_`](https://codeforces.com/profile/_Sayan_Dev_Nath_) | Algorithmic contests, greedy, math, and speed implementation |
-| **CodeChef** | [`sayandevnath`](https://www.codechef.com/users/sayandevnath) | Rated contests, constructive algorithms, and number theory |
-| **LeetCode** | [`SayanDevNath`](https://leetcode.com/u/SayanDevNath/) | Data structures, dynamic programming, and interview problem-solving |
+| [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/_Sayan_Dev_Nath_) | [`_Sayan_Dev_Nath_`](https://codeforces.com/profile/_Sayan_Dev_Nath_) | Algorithmic contests, greedy, math, and speed implementation |
+| [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/sayandevnath) | [`sayandevnath`](https://www.codechef.com/users/sayandevnath) | Rated contests, constructive algorithms, and number theory |
+| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/SayanDevNath/) | [`SayanDevNath`](https://leetcode.com/u/SayanDevNath/) | Data structures, dynamic programming, and interview problem-solving |
+
+<div align="center">
+
+<a href="https://codeforces.com/profile/_Sayan_Dev_Nath_">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=_Sayan_Dev_Nath_&theme=radical" height="165" alt="Codeforces Stats" />
+</a>
+<a href="https://leetcode.com/u/SayanDevNath/">
+  <img src="https://leetcard.jacoblin.cool/SayanDevNath?theme=radical&font=Fira%20Code" height="165" alt="LeetCode Stats" />
+</a>
+
+</div>
 
 ---
 
