@@ -45,11 +45,11 @@ Passionate about **Competitive Programming**, **Web Development**, & always eage
 
 ## 🏆 Competitive Programming
 
-| Platform | Handle | Focus Areas |
-| :--- | :--- | :--- |
-| [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/_Sayan_Dev_Nath_) | [`_Sayan_Dev_Nath_`](https://codeforces.com/profile/_Sayan_Dev_Nath_) | Algorithmic contests, greedy, math, and speed implementation |
-| [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/sayandevnath) | [`sayandevnath`](https://www.codechef.com/users/sayandevnath) | Rated contests, constructive algorithms, and number theory |
-| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/SayanDevNath/) | [`SayanDevNath`](https://leetcode.com/u/SayanDevNath/) | Data structures, dynamic programming, and interview problem-solving |
+| Platform | Handle | Live Rating / Profile | Focus Areas |
+| :--- | :--- | :--- | :--- |
+| [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/_Sayan_Dev_Nath_) | [`_Sayan_Dev_Nath_`](https://codeforces.com/profile/_Sayan_Dev_Nath_) | ![Codeforces Rating](https://cf.leed.at/rating/_Sayan_Dev_Nath_.svg) | Algorithmic contests, greedy, math, and speed implementation |
+| [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/sayandevnath) | [`sayandevnath`](https://www.codechef.com/users/sayandevnath) | ![CodeChef Rating](https://img.shields.io/badge/CodeChef-sayandevnath-5B4638?style=flat-square&logo=codechef) | Rated contests, constructive algorithms, and number theory |
+| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/SayanDevNath/) | [`SayanDevNath`](https://leetcode.com/u/SayanDevNath/) | ![LeetCode](https://img.shields.io/badge/LeetCode-SayanDevNath-FFA116?style=flat-square&logo=leetcode&logoColor=black) | Data structures, dynamic programming, and interview problem-solving |
 
 <div align="center">
 
