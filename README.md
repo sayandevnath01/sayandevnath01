@@ -43,6 +43,16 @@ Passionate about **Competitive Programming**, **Web Development**, & always eage
 
 ---
 
+## 🏆 Competitive Programming
+
+| Platform | Handle | Focus Areas |
+| :--- | :--- | :--- |
+| **Codeforces** | [`_Sayan_Dev_Nath_`](https://codeforces.com/profile/_Sayan_Dev_Nath_) | Algorithmic contests, greedy, math, and speed implementation |
+| **CodeChef** | [`sayandevnath`](https://www.codechef.com/users/sayandevnath) | Rated contests, constructive algorithms, and number theory |
+| **LeetCode** | [`SayanDevNath`](https://leetcode.com/u/SayanDevNath/) | Data structures, dynamic programming, and interview problem-solving |
+
+---
+
 ## 🌟 Projects
 
 - 📝 **CP Solutions Repo** → Solutions and notes from Codeforces, CodeChef, and other online judges
@@ -55,8 +65,8 @@ Passionate about **Competitive Programming**, **Web Development**, & always eage
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sayan-dev-nath&show_icons=true&theme=radical" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayan-dev-nath&layout=compact&theme=radical" height="165" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=sayandevnath01&show_icons=true&theme=radical" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayandevnath01&layout=compact&theme=radical" height="165" alt="Top Languages" />
 
 </div>
 
@@ -69,6 +79,9 @@ Passionate about **Competitive Programming**, **Web Development**, & always eage
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayan-dev-nath)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayandevnath01@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sayandevnath01)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/_Sayan_Dev_Nath_)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sayandevnath)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SayanDevNath/)
 
 </div>
 
